@@ -1,0 +1,31 @@
+.header {
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 50px;
+}
+
+.header .arrow-left {
+  width: 50px;
+  height: 50px;
+}
+
+.header .alamat p {
+  font-size: 10px;
+  margin: 0;
+}
+
+.header .alamat .nama-tempat {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 25px;
+}
+
+.header .alamat .nama-tempat .arrow-down {
+  margin: 10px;
+  width: 25px;
+  height: 25px;
+}
+/*# sourceMappingURL=Header.css.map */

@@ -1,0 +1,24 @@
+.tombol-menu {
+    display: flex;
+    margin: 20px;
+    // background-color: red;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+    .tombol-launch {
+        width: 250px;
+        height: 40px;
+        border: 1px solid #f1f1f2;
+        border-radius: 5px 0px 0px 5px;
+    }
+    .tombol-dinner {
+        width: 250px;
+        height: 40px;
+        border: 1px solid #f1f1f2;
+        border-radius: 0px 5px 5px 0px;
+    }
+    .active {
+        color: white;
+        background-color: #424749;
+    }
+}

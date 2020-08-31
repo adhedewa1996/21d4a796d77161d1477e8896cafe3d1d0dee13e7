@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAC;EACT,MAAM,EAAE,iBAAiB;EACzB,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "bagian-atas.scss"
+    ],
+    "names": [],
+    "file": "bagian-atas.css"
+}

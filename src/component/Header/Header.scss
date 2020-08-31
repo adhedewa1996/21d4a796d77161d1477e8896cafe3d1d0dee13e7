@@ -1,0 +1,27 @@
+.header {
+    margin: 0;
+    // background-color: red;
+    display: flex;
+    height: 50px;
+    .arrow-left {
+        width: 50px;
+        height: 50px;
+        // background-color: blue;
+    }
+    .alamat {
+        p {
+            font-size: 10px;
+            margin: 0;
+        }
+        .nama-tempat {
+            display: flex;
+            font-size: 25px;
+            .arrow-down {
+                margin: 10px;
+                width: 25px;
+                height: 25px;
+                // background-color: blue;
+            }
+        }
+    }
+}
