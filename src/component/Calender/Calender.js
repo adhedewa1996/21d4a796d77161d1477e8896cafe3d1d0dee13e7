@@ -24,11 +24,11 @@ function Calender(){
                 JUM
                 <div className="date">14</div>
             </div>
-            <div className="day">
+            <div className="day disable">
                 SAB
                 <div className="date">15</div>
             </div>
-            <div className="day">
+            <div className="day disable">
                 MIN
                 <div className="date">16</div>
             </div>
