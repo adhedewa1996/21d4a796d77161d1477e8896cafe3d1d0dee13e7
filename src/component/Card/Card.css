@@ -19,7 +19,14 @@
 }
 
 .card .info-card .rating {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
   color: #6e7679;
+}
+
+.card .info-card .rating .icon {
+  color: red;
 }
 
 .card .info-card .food-name {

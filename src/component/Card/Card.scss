@@ -15,7 +15,11 @@
         margin: 1em;
         background-color: white;
         .rating {
+            display: flex;
             color: #6e7679;
+            .icon {
+                color: red;
+            }
         }
         .food-name {
             font-weight: bold;
