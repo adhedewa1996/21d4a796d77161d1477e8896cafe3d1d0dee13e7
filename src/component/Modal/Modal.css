@@ -18,12 +18,26 @@
   font-weight: 600;
 }
 
-.modal .modal-body input {
+.modal .modal-body .input-icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.modal .modal-body .input-icon input {
   width: 90%;
   height: 5vh;
   margin: 0px 20px 20px 20px;
   border-radius: 10px;
   border: 2px solid #f1f1f2;
+  text-indent: 60px;
+  outline-color: #f1f1f2;
+}
+
+.modal .modal-body .input-icon .icon {
+  position: absolute;
+  margin: 15px 20px 0px 40px;
+  color: red;
 }
 
 .modal .modal-body .lokasi {

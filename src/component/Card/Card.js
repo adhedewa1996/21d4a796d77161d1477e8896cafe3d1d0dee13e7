@@ -8,7 +8,7 @@ class Card extends Component {
     render() {
         return <Fragment>
             <div className="card">
-            <img src="https://lh3.googleusercontent.com/proxy/6sK68pvAyWDiJNJhMNAx0gpytfe7sVBC5wyW97T566S5a7zVpBdFXG_PES8h-ElRdExWZnSsYarwx_Q5u-QnYE-gpBLbetlVfGGJdjjVuagpfyjcn9S9BqI7gbM3fERqBYpEGA" alt=""/>
+            <img src="https://lh3.googleusercontent.com/proxy/HtUA7ERHvhc-6pdUG01c39vaKmol-wA9UPkCZx4Iqe0jv7E_3V-T7w5ydTydqpfE9acIYc7RLSZ6hsZeMQkJCK6z-2Dq78qN_RvLYojwoKJxyLTxNkaIWKXGtXBJG0Ki8emR8w" alt=""/>
             <div className="info-card">
                 <div className="rating">
                     4.5

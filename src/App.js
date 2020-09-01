@@ -11,7 +11,7 @@ class App extends Component {
       super(props);
       this.state = {
           clicks: 0,
-          isOpen: true,
+          isOpen: false,
       };
       this.IncrementItem = this.IncrementItem.bind(this);
   }

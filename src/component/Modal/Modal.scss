@@ -15,12 +15,22 @@
             font-size: 30px;
             font-weight: 600;
         }
-        input {
-            width: 90%;
-            height: 5vh;
-            margin: 0px 20px 20px 20px;
-            border-radius: 10px;
-            border: 2px solid #f1f1f2;
+        .input-icon {
+            display: flex;
+            input {
+                width: 90%;
+                height: 5vh;
+                margin: 0px 20px 20px 20px;
+                border-radius: 10px;
+                border: 2px solid #f1f1f2;
+                text-indent: 60px;
+                outline-color: #f1f1f2;
+            }
+            .icon {
+                position: absolute;
+                margin: 15px 20px 0px 40px;
+                color: red;
+            }
         }
         .lokasi {
             width: 90%;
