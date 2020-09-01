@@ -1,0 +1,51 @@
+.cart {
+  margin: 1em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 88.3%;
+  height: 40px;
+  background-color: red;
+  position: fixed;
+  bottom: 0px;
+  left: 4px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.cart .info-cart {
+  width: 90%;
+  display: block;
+}
+
+.cart .info-cart .atas {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: bold;
+  color: white;
+}
+
+.cart .info-cart .bawah {
+  text-align: left;
+  font-size: 12px;
+  color: white;
+}
+
+.cart .icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: white;
+  padding: 8px;
+}
+
+.blur {
+  width: 92.5%;
+  bottom: 0;
+  height: 30px;
+  position: fixed;
+  background-color: white;
+  opacity: 0.3;
+}
+/*# sourceMappingURL=Cart.css.map */
