@@ -26,7 +26,7 @@
 }
 
 .card .info-card .rating .icon {
-  color: red;
+  color: #f9423a;
 }
 
 .card .info-card .food-name {
@@ -60,7 +60,7 @@
   border-radius: 5px;
   width: 120px;
   height: 40px;
-  background-color: red;
+  background-color: #f9423a;
   font-weight: 550;
   color: white;
   border: none;
